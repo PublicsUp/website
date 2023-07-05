@@ -1,6 +1,5 @@
 /* Import plugin types */
 import type { PrepareMetaProps, Meta } from "./Utils/prepareMeta"
-import type { Song } from "./Firebase"
 
 /* Declare modules */
 declare module "vue/types/vue" {
