@@ -3,7 +3,7 @@ import LastFMTyped from "lastfm-typed"
 
 // Can also be set through Netlify environment variables
 const LASTFM_API_KEY = process.env.LASTFM_API_KEY
-const username = "eggsywashere"
+const username = "faris0520"
 
 const handler: Handler = async () => {
   if (!LASTFM_API_KEY)
